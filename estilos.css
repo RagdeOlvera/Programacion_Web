@@ -1,0 +1,32 @@
+div{
+	background: red;
+
+
+}
+p{
+	font-size: 20px;
+}
+h1{
+	font-size: 40px;
+}
+.seccionTitulo{
+	background: green;
+
+}
+#miTitulo{
+	background: gray;
+	width: 500px;
+
+	position: absolute;
+	top: 100px ;
+	right: ;
+	bottom: ;
+	left: 150px;
+
+
+/*	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	fixed, static, relative, absolute*/
+
+}
+/* div, es un selector */
